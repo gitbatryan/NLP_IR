@@ -5,4 +5,4 @@ I have chosen **"Famous speeches of notable people"** as the topic for my projec
 Choosing this topic provides an additional benefit: it offers an opportunity to understand the thoughts and perspectives of historical figures from different eras.
 
 
-This IR system dataset used speeches posted on the ['Top 100 speeches of the 20th century by rank'](https://www.americanrhetoric.com/top100speechesall.html), ['the famous speeches'](https://www.famous-speeches-and-speech-topics.info/famous-speeches/) ['the history place'](https://www.historyplace.com/speeches/previous.htm).
+This IR system dataset used speeches posted on the ['Top 100 speeches of the 20th century by rank'](https://www.americanrhetoric.com/top100speechesall.html), ['the famous speeches'](https://www.famous-speeches-and-speech-topics.info/famous-speeches/)and ['the history place'](https://www.historyplace.com/speeches/previous.htm).
