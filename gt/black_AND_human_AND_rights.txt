@@ -1,0 +1,20 @@
+[
+	"Barack Obama - A More Perfect Union.txt",
+	"Hubert Horatio Humphrey - 1948 DNC Address.txt",
+	"Jesse Jackson - 1984 DNC Address.txt",
+	"Jesse Jackson - 1988 DNC Address.txt",
+	"Jesse Jackson - Common Ground and Common Sense.txt",
+	"Lyndon Baines Johnson - We Shall Overcome.txt",
+	"Martin Luther King, Jr. - A Time to Break Silence.txt",
+	"Martin Luther King, Jr. - I've Been to the Mountaintop.txt",
+	"Nelson Mandela - I am Prepared to Die.txt",
+	"Nelson Mandela - No Easy Walk to Freedom Speech.txt",
+	"Robert Francis Kennedy - Day of Affirmation.txt",
+	"Stokely Carmichael - Black Power.txt",
+	"Dorothy Ann Willis Richards - 1988 DNC Keynote Address.txt",
+	"Elizabeth Cady Stanton - The Destructive Male.txt",
+	"Julius Genachowski - Brookings Speech on Broadband & the Internet.txt",
+	"Mary Fisher - A Whisper of AIDS.txt",
+	"Nelson Mandela - Inaugural Address Speech.txt",
+	"Tom Delay - Farewell Address to House of Representatives.txt"
+]

@@ -1,0 +1,7 @@
+[
+	"Bill Gates - Stanford University.txt",
+	"Steve Jobs - Commencement Address at Stanford University.txt",
+	"John F. Kennedy - American University Commencement.txt",
+	"Ursula Kroeber Le Guin - Left-Handed Commencement Address.txt",
+	"Barbara Pierce Bush - Wellesley College Commencement.txt"
+]

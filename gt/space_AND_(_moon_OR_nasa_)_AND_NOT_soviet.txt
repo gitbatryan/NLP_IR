@@ -1,0 +1,5 @@
+[
+	"Douglas MacArthur - Sylvanus Thayer Award Acceptance Address.txt",
+	"John F. Kennedy - Houston Ministerial Association.txt",
+	"Ronald Reagan - Shuttle 'Challenger' Disaster Address.txt"
+]
